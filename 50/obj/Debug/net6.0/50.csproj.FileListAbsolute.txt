@@ -1,0 +1,15 @@
+G:\GeekBrains\C#\home work7\50\bin\Debug\net6.0\50.exe
+G:\GeekBrains\C#\home work7\50\bin\Debug\net6.0\50.deps.json
+G:\GeekBrains\C#\home work7\50\bin\Debug\net6.0\50.runtimeconfig.json
+G:\GeekBrains\C#\home work7\50\bin\Debug\net6.0\50.dll
+G:\GeekBrains\C#\home work7\50\bin\Debug\net6.0\50.pdb
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.csproj.AssemblyReference.cache
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.AssemblyInfoInputs.cache
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.AssemblyInfo.cs
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.dll
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\refint\50.dll
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.pdb
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\50.genruntimeconfig.cache
+G:\GeekBrains\C#\home work7\50\obj\Debug\net6.0\ref\50.dll
